@@ -1,0 +1,15 @@
++ talk about apples
+- Ok.{topic=sorry}
+
+> topic sorry
+
+    + apples are *
+    - Yes, apples are <star>
+
+    + change the subject
+    - ok.{topic=random}
+
+    + *
+    - if you want to change the subject say "change the subject"
+
+< topic
